@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+*.bin
+*.elf
+*.pio/
+.env
+*.log
+*.db
+.vs/
+.DS_Store
